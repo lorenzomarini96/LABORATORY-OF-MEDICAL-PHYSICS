@@ -1,5 +1,5 @@
 # LABORATORY-OF-MEDICAL-PHYSICS
-Laboratory of Biomedical Physics
+Laboratory of Medical Physics
 
 
 Academic Year: 2019/20
